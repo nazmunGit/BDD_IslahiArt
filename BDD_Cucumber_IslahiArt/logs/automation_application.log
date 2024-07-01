@@ -1,0 +1,7 @@
+2024-06-30 10:45:20.181 [main] INFO  step_definitions.SignUpWithValidData - Going to My Account page..
+2024-06-30 10:45:21.247 [main] INFO  step_definitions.SignUpWithValidData - Going to Sign Up page..
+2024-06-30 10:45:21.566 [main] INFO  step_definitions.SignUpWithValidData - Email address: abcxyz@gmail.com
+2024-06-30 10:45:21.750 [main] INFO  step_definitions.SignUpWithValidData - First name and Last name: xyz abc
+2024-06-30 10:45:27.465 [main] INFO  step_definitions.SignUpWithValidData - Sign Up is successful..
+	Hello <strong>xyz.abc</strong> (not <strong>xyz.abc</strong>? <a href="https://islahiart.com/my-account/customer-logout/?_wpnonce=9c262f978d">Log out</a>)
+2024-06-30 10:45:27.583 [main] INFO  step_definitions.SignUpWithValidData - Closing browser..
